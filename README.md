@@ -510,17 +510,3 @@ SOFTWARE.
 ```
 
 ---
-
-## 🚀 Setelah README Dibuat
-
-1. **Commit** ke Git:
-   ```bash
-   git add README.md
-   git commit -m "docs: tambah instruksi instalasi"
-   git push
-   ```
-
-2. **Cek di GitHub** → halaman repo akan menampilkan README otomatis
-
-3. **Share ke tim** → tinggal kirim link repo, mereka ikuti langkahnya
-
